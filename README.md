@@ -1,4 +1,7 @@
-# README #
+# Code quality project with Maven #
+
+[![Build Status](https://travis-ci.org/peterszatmary/code-quality-maven-project.svg?branch=master)](https://travis-ci.org/peterszatmary/code-quality-maven-project)
+
 
 This project has maven pom.xml settings usefull for every single project.
 
