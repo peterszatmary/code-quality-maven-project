@@ -10,7 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest extends TestCase {
 
     /**
-     * Create the test case
+     * Create the test case.
      *
      * @param testName name of the test case
      */
@@ -33,7 +33,7 @@ public class AppTest extends TestCase {
     }
 
     /**
-     * Main test
+     * Main test.
      */
     public void testMain() {
         App.main(null);
