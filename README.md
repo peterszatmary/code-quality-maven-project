@@ -1,7 +1,6 @@
 # Code quality project with Maven #
 
 [![Build Status](https://travis-ci.org/peterszatmary/code-quality-maven-project.svg?branch=master)](https://travis-ci.org/peterszatmary/code-quality-maven-project)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ca94edd133f747bba11bba5eb88380ec)](https://www.codacy.com/app/peterszatmary/code-quality-maven-project?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=peterszatmary/code-quality-maven-project&amp;utm_campaign=Badge_Grade)
 
 This project has maven pom.xml settings usefull for every single project.
 
